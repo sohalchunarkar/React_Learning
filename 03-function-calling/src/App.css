@@ -1,0 +1,32 @@
+.btn{
+  display: flex;
+  justify-content: center;
+  height: 50%;
+  width: 20%;
+  margin:auto;
+  background-color: lawngreen;
+  border: none;
+  border-radius: 1px;
+  color: rgb(119, 43, 15);
+}
+.btn:hover{
+  background-color: blue;
+}
+
+.name
+{
+  background-color: aliceblue;
+  color: black;
+  font-weight: 400;
+    height: 50%;
+  width: 20%;
+}
+
+.submit-name{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 20%;
+}
