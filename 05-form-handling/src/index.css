@@ -1,0 +1,14 @@
+body {
+  background-color: slategray;
+}
+
+button , input {
+  
+  margin:  20px;
+}
+
+input {
+  background-color: darkcyan;
+  color:rgb(79, 175, 199);
+  padding: 10px;
+}
