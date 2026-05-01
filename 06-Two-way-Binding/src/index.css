@@ -1,0 +1,17 @@
+body {
+  background-color: slategray;
+}
+
+input , button {
+  margin: 20px;
+}
+
+input {
+  background-color: rgb(154, 231, 231);
+  color: brown;
+  padding: 5px;
+}
+
+button {
+  background-color: darkkhaki;
+}
