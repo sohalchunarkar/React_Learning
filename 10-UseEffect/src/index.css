@@ -1,0 +1,11 @@
+button {
+  padding: 10px 20px;
+  margin: 10px;
+}
+
+div {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin: 10px 20px;
+}
